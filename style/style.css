@@ -1,0 +1,19 @@
+body{
+    background-color: #6E849C;
+    box-shadow: 5px 8px #23847fad;
+    border-style: dotted dashed solid double;
+    border-radius: 12px;
+    border-color: lightgray;
+    cursor: ew-resize;
+}
+
+h1:hover {
+    text-align: center;
+    background-color: #1e948952;
+    box-shadow: 3px 5px black;
+}
+
+img{
+    box-shadow: 5px 8px #97dc7a61;
+    border-radius: 250px;
+}
